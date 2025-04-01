@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143384514327",
+    "project_id": "house-rental-application-c9108",
+    "storage_bucket": "house-rental-application-c9108.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143384514327:android:d559a644e9f3fb4d16f152",
+        "android_client_info": {
+          "package_name": "com.example.houserentalapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD060d5cy_-OMMphOLs2pRd0qWyMXfprIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
